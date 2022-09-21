@@ -1,0 +1,13 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+/* .input-container label { */
+/* } */
+
+.input-container input {
+  background: #f5f6f6;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-radius: 0.5rem;
+  height: 3.5rem;
+}
